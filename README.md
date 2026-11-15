@@ -2,83 +2,133 @@
 
 # تسوية · Taswiya
 
-برنامج سطح مكتب لحساب **التسوية الضريبية السنوية** على المرتبات في مصر وصافي المرتب لكل موظف.
-يعمل على جهازك بالكامل دون إنترنت، وبياناتك تبقى عندك مشفّرة.
+### التسوية الضريبية السنوية وصافي المرتب لكل موظف — في دقائق بدل أيام.
+
+**تسوية** برنامج مصري لحساب ضريبة كسب العمل على المرتبات وتسويتها السنوية، صُمم للشركات ومكاتب المحاسبة.
+تُدخل بيانات الموظف مرة واحدة، والبرنامج يحسب الضريبة السنوية والشهرية وفروق التسوية وصافي المرتب فورًا، ويجهّز لك
+التقارير جاهزة للطباعة والتوقيع.
+
+**[⬇ حمّل أحدث إصدار](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)** · تجربة مجانية 14 يومًا، دون بطاقة ودون تسجيل.
+
+---
+
+## لماذا تسوية؟
+
+- **⚡ نتيجة فورية** — كل رقم يُعاد حسابه لحظة الكتابة: الوعاء الخاضع، الشريحة، الضريبة، الفرق، وصافي المرتب.
+- **⚖️ كل قوانين الضريبة في مكان واحد** — قانون 2021، والقانون 30 لسنة 2023، والقانون 175 لسنة 2023، والقانون 7 لسنة 2024، بكل الفئات والشرائح، مع إمكانية إضافة أي قانون جديد بنفسك فور صدوره دون انتظار تحديث.
+- **🎯 حساب دقيق بلا تقريب** — أرقام عشرية دقيقة حتى القرش، وشرح كامل لكيفية الوصول لكل رقم.
+- **🔒 بياناتك عندك فقط** — يعمل على جهازك بالكامل دون إنترنت، وملف البيانات مشفّر، فلا خوادم خارجية ولا اشتراكات سحابية.
+- **🇪🇬 عربي أولًا** — واجهة عربية كاملة من اليمين لليسار، مع واجهة إنجليزية بضغطة، ووضع فاتح وداكن.
+
+---
+
+## كل ما تحتاجه للتسوية الضريبية
+
+### 👥 الموظفون
+- جدول موظفين سريع حتى مع آلاف الموظفين: بحث، تصفية حسب الحالة (عليه / له / تمت التسوية)، ترتيب، وإجماليات فورية.
+- صفحة لكل موظف تُحسب فيها الضريبة أثناء الكتابة، مع رسم يوضح الضريبة على كل شريحة.
+- **مقارنة القوانين**: نفس الموظف تحت كل قانون جنبًا إلى جنب.
+- الشهور تُحسب تلقائيًا من تاريخ التعيين وتاريخ ترك العمل، أو تحددها أنت يدويًا.
+- الاستقطاعات (التأمينات الاجتماعية، صناديق التأمين الخاصة، أقساط تأمين الحياة والصحي) شهرية أو سنوية كما تحب.
+- يقترح البرنامج القانون الساري في تاريخ التعيين، والقرار لك دائمًا.
+
+### 💰 بنود الأجر بمرونة كاملة
+- المرتب الأساسي، البدلات، الحوافز، المكافآت، العلاوات الخاصة المعفاة، حصة الأرباح، وأي بند تضيفه بنفسك.
+- لكل بند معاملته الضريبية: خاضع، معفى، معفى حتى حد معين، أو يُحسب منفصلًا.
+- حقول بيانات إضافية للموظف (القسم، المدير، الرقم القومي، الرقم التأميني…) وأي حقل تريده، وتظهر كأعمدة في الجدول.
+
+### 🧾 تسوية الفروق
+- معاينة **"ماذا لو"**: تحصيل الفرق أو رده دفعة واحدة أو على عدة شهور، وأثر ذلك على صافي المرتب.
+- تسجيل التسوية بتاريخها وطريقتها، وتنبيه تلقائي إذا تغيّرت البيانات بعد التسجيل.
+
+### 📅 السنوات الضريبية
+- **إغلاق السنة** بضغطة: تُحفظ نتائج كل موظف كما هي للرجوع إليها في أي وقت، وتبدأ السنة الجديدة بنفس الموظفين والمبالغ.
+- تقارير السنوات السابقة متاحة للطباعة والتصدير، وكل موظف تظهر له سنواته السابقة في صفحته.
+
+### 📊 تقارير جاهزة
+- تقرير التسوية الضريبية السنوية للشركة: الإجماليات، التوزيع حسب الإدارة، ونسبة الضريبة الفعلية.
+- بيان تسوية مستقل لكل موظف في صفحة A4 واحدة مع أماكن التوقيع.
+- طباعة مباشرة أو حفظ PDF.
+
+### 📥 Excel بسهولة
+- استيراد الموظفين من أي ملف Excel: يتعرف البرنامج على الأعمدة تلقائيًا، ويراجع كل صف ويوضح الأخطاء قبل الحفظ.
+- يفهم الأرقام العربية والتواريخ بصيغها المختلفة، ويأخذ نسخة احتياطية قبل كل استيراد.
+- تصدير النتائج إلى Excel بإجماليات جاهزة، ونموذج استيراد جاهز للتعبئة.
+
+### 🏢 عدة شركات وعدة أجهزة
+- **أكثر من شركة** في برنامج واحد — مثالي لمكاتب المحاسبة — وتنتقل بينها بضغطة.
+- **النسخة الشبكية**: عدة أجهزة في المكتب تعمل على نفس البيانات. جهاز واحد هو الخادم، والباقي يتصل به برمز ربط من 6 أرقام، عبر اتصال مشفّر داخل شبكتك فقط.
+- يمكن للخادم العمل في الخلفية ويبدأ مع ويندوز تلقائيًا.
+
+### 🛡️ أمان وتحكم
+- مستخدمون بصلاحيات: الدعم الفني، المسؤول، المحاسب، والمشاهد.
+- **سجل كامل لكل تغيير**: من غيّر ماذا ومتى، والقيمة القديمة والجديدة.
+- نسخ احتياطي بضغطة واستعادة سهلة، ونسخ تلقائية قبل كل عملية مهمة.
+- فحص البيانات: أكواد مكررة، موظفون بلا شهور أو بلا تاريخ تعيين، تسويات تغيّرت بعد تسجيلها.
+- تحديثات تلقائية موقّعة ومؤمّنة، يوافق عليها المسؤول، مع نسخة احتياطية قبل التحديث.
+
+---
+
+## الخطط
+- **تجربة مجانية 14 يومًا** حتى 5 موظفين، دون أي التزام.
+- **اشتراك شهري أو سنوي**: عدد غير محدود من الموظفين، مع خيارات لعدة شركات وعدة أجهزة حسب احتياجك.
+- التفعيل بمفتاح ترخيص يعمل دون إنترنت.
 
 ## التحميل
-حمّل أحدث إصدار من صفحة **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**:
-- **`Taswiya_…_x64-setup.exe`** لمعظم الأجهزة (ويندوز 64 بت).
-- **`Taswiya_…_x86-setup.exe`** لأجهزة ويندوز 32 بت القديمة.
+حمّل من صفحة **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**:
+- **`Taswiya_…_x64-setup.exe`** لمعظم الأجهزة (ويندوز 10 و 11، 64 بت).
+- **`Taswiya_…_x86-setup.exe`** لأجهزة ويندوز 10 القديمة (32 بت).
 
-لمعرفة نوع ويندوز: **الإعدادات ← النظام ← حول** ← «نوع النظام».
+عند التثبيت قد تظهر رسالة «Windows protected your PC»: اضغط **More info** ثم **Run anyway**.
 
-## المتطلبات
-- ويندوز 10 أو 11 (64 بت)، أو ويندوز 10 (32 بت) بملف x86.
-- لا يحتاج اتصالًا بالإنترنت للعمل (الإنترنت يُستخدم فقط للبحث عن التحديثات).
-
-## التثبيت
-1. افتح ملف التثبيت الذي حمّلته (`x64` أو `x86`).
-2. إذا ظهرت رسالة «Windows protected your PC» اضغط **More info** ثم **Run anyway**.
-3. اختر اللغة وأكمل التثبيت. يظهر البرنامج في قائمة ابدأ باسم **Taswiya**.
-
-## أول تشغيل
-1. أنشئ حساب **الدعم الفني** (اسم مستخدم وكلمة مرور تحتفظ بها في مكان آمن).
-2. من صفحة **المستخدمون** أنشئ حساب **المسؤول** وحسابات المحاسبين.
-3. يبدأ البرنامج بـ **نسخة تجريبية لمدة 14 يومًا** (حتى 5 موظفين). جرّب «تحميل أمثلة» من صفحة الموظفين.
-
-## التفعيل
-1. من **الإعدادات ← الترخيص** انسخ **رقم الجهاز (Machine ID)** وأرسله للمورد.
-2. ستصلك **مفتاح ترخيص** يبدأ بـ `TSW1.` — الصقه في نفس المكان واضغط **تفعيل**.
-3. عند تغيير الجهاز تحتاج مفتاحًا جديدًا للجهاز الجديد.
-
-## ماذا يقدّم البرنامج
-- جدول الموظفين مع البحث والتصفية والإجماليات، وصفحة لكل موظف تُحسب فيها الضريبة فور الكتابة.
-- قوانين الضريبة (2021، ق30 و ق175 لسنة 2023، ق7 لسنة 2024) مع إمكانية إضافة قانون جديد.
-- بنود الأجر، الإعفاءات، التأمينات، حصة الأرباح، والشهور من تاريخ التعيين أو ترك العمل.
-- معاينة تسوية الفروق (دفعة واحدة أو على عدة شهور) وتسجيلها.
-- استيراد الموظفين من Excel وتصدير النتائج، وتقرير التسوية وبيانات الموظفين للطباعة أو PDF.
-- أكثر من شركة، ومستخدمون بصلاحيات، وسجل لكل تغيير.
-- العمل على **عدة أجهزة** في نفس الشبكة (حسب الترخيص).
-- واجهة عربية وإنجليزية، فاتحة وداكنة.
-
-## التحديثات
-عند فتح البرنامج يبحث عن تحديث. إذا وُجد يظهر شريط للمسؤول؛ اضغط **تثبيت** — يحفظ البرنامج نسخة احتياطية أولًا ثم يُحدِّث نفسه ويعيد التشغيل.
-
-## العمل على عدة أجهزة
-1. على الجهاز الذي سيحفظ البيانات: **الإعدادات ← الشبكة ← تفعيل وضع الخادم**، ثم **إنشاء كود ربط**.
-   إذا ظهرت رسالة جدار حماية ويندوز اختر **السماح** للشبكات الخاصة.
-2. على كل جهاز آخر: من شاشة البداية **الاتصال بخادم في الشبكة**، ثم اكتب عنوان الخادم والكود.
-3. يجب أن يبقى البرنامج مفتوحًا على جهاز الخادم أثناء العمل.
-
-## النسخ الاحتياطي
-من **الإدارة والسجل ← نسخة احتياطية الآن**. يحفظ البرنامج نسخًا تلقائية قبل الاستعادة والاستيراد والتحديث.
-انسخ مجلد النسخ الاحتياطية دوريًا إلى فلاشة أو مكان آخر.
-
-## نسيت كلمة المرور؟
-من شاشة الدخول اضغط **نسيت كلمة المرور؟**، وأرسل رقم الجهاز للمورد ليرسل لك كود استعادة (صالح اليوم وغدًا).
+<sub>برنامج تسوية من تطوير [أحمد عصام](https://ahmedessam149.github.io/Ahmed-Essam/)</sub>
 
 </div>
 
 ---
 
-# Taswiya (English)
+# Taswiya — Egyptian payroll tax settlement, done in minutes
 
-Desktop app for the **Egyptian annual salary-tax settlement** and each employee's net pay. Works fully offline;
-your data stays on your PC, encrypted.
+**Taswiya** calculates the annual salary-tax settlement and net pay for every employee under Egyptian tax law. Built for
+companies and accounting offices: enter an employee once, and Taswiya instantly gives the annual and monthly tax, the
+settlement difference and the net salary — with print-ready reports.
 
-**Download:** latest installer from **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**: `…_x64-setup.exe` for 64-bit Windows 10/11 (most PCs), `…_x86-setup.exe` for 32-bit Windows 10.
+**[⬇ Download the latest version](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)** · 14-day free trial, no card, no sign-up.
 
-**Install:** run the setup file. If Windows shows “Windows protected your PC”, click *More info* → *Run anyway*.
+## Why Taswiya
+- **Instant results** – every figure recalculates as you type: taxable income, tier, tax, difference, net pay.
+- **All the tax laws** – 2021, Law 30/2023, Law 175/2023 and Law 7/2024 with all tiers and brackets; add a new law yourself the day it is issued.
+- **Exact, no rounding** – exact decimal arithmetic, and a step-by-step breakdown of how each number is reached.
+- **Your data stays with you** – runs fully offline on your PC; the data file is encrypted. No cloud, no servers.
+- **Arabic first** – full right-to-left Arabic interface, English at a click, light and dark themes.
 
-**First run:** create the **IT support** account, then create your admin and accountants from the *Users* page.
-The 14-day trial allows 5 employees – try *Load examples*.
+## Features
+- **Employees** – a fast table even with thousands of employees (search, status filters, sorting, totals); a page per
+  employee with live calculation, tax per bracket and a side-by-side comparison of all laws; months from hire and
+  leaving dates; deductions monthly or annual.
+- **Flexible pay items** – every item has its own tax treatment (taxable, exempt, exempt up to a limit, separate); add your
+  own items and employee detail fields.
+- **Settlements** – "what-if" preview of collecting or refunding the difference at once or over several months; recorded
+  settlements are flagged if data changes afterwards.
+- **Tax years** – close a year with one click: results are kept as they were, and the new year starts with the same
+  employees and amounts. Past years can be printed and exported any time.
+- **Reports** – the company's annual settlement report (totals, by department, effective tax rate) and a one-page A4
+  statement per employee with signature lines; print or save as PDF.
+- **Excel** – import employees from any workbook with automatic column matching and a full check before saving;
+  export results with totals.
+- **Several companies, several PCs** – ideal for accounting offices; the network edition lets the office PCs share one
+  database over an encrypted connection on your own network, and the server can run in the background from Windows start.
+- **Security** – users and roles, a complete change log (who, when, old → new), one-click backup and restore, data checks,
+  and signed automatic updates approved by an admin.
 
-**Activate:** Settings → License → copy the **Machine ID**, send it to your vendor, paste the key you receive
-(`TSW1.…`) and click *Activate*.
+## Plans
+- **14-day free trial** for up to 5 employees.
+- **Monthly or yearly** subscription with unlimited employees, and options for several companies and PCs.
+- Offline activation with a license key.
 
-**Updates:** the app checks at start; an admin clicks *Install* (a backup is taken first).
+## Download
+From **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**: `…_x64-setup.exe` for 64-bit
+Windows 10/11 (most PCs), `…_x86-setup.exe` for 32-bit Windows 10. If Windows shows “Windows protected your PC”, click
+*More info* → *Run anyway*.
 
-**Several PCs:** on the data PC enable *server mode* and create a pairing code; on other PCs choose
-*Connect to a server on the network*. Keep the app open on the server PC.
-
-**Backups:** Admin & log → *Back up now*; automatic backups before restore, import and updates.
+<sub>Taswiya App developed by [Ahmed Essam](https://ahmedessam149.github.io/Ahmed-Essam/)</sub>
