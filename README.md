@@ -6,14 +6,18 @@
 يعمل على جهازك بالكامل دون إنترنت، وبياناتك تبقى عندك مشفّرة.
 
 ## التحميل
-حمّل أحدث إصدار من صفحة **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**: الملف الذي ينتهي بـ `-setup.exe`.
+حمّل أحدث إصدار من صفحة **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**:
+- **`Taswiya_…_x64-setup.exe`** لمعظم الأجهزة (ويندوز 64 بت).
+- **`Taswiya_…_x86-setup.exe`** لأجهزة ويندوز 32 بت القديمة.
+
+لمعرفة نوع ويندوز: **الإعدادات ← النظام ← حول** ← «نوع النظام».
 
 ## المتطلبات
-- ويندوز 10 أو 11 (64 بت).
+- ويندوز 10 أو 11 (64 بت)، أو ويندوز 10 (32 بت) بملف x86.
 - لا يحتاج اتصالًا بالإنترنت للعمل (الإنترنت يُستخدم فقط للبحث عن التحديثات).
 
 ## التثبيت
-1. افتح الملف `Taswiya_…_x64-setup.exe`.
+1. افتح ملف التثبيت الذي حمّلته (`x64` أو `x86`).
 2. إذا ظهرت رسالة «Windows protected your PC» اضغط **More info** ثم **Run anyway**.
 3. اختر اللغة وأكمل التثبيت. يظهر البرنامج في قائمة ابدأ باسم **Taswiya**.
 
@@ -62,7 +66,7 @@
 Desktop app for the **Egyptian annual salary-tax settlement** and each employee's net pay. Works fully offline;
 your data stays on your PC, encrypted.
 
-**Download:** latest installer from **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)** (`…-setup.exe`). Windows 10/11 64-bit.
+**Download:** latest installer from **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)** : `…_x64-setup.exe` for 64-bit Windows 10/11 (most PCs), `…_x86-setup.exe` for 32-bit Windows 10.
 
 **Install:** run the setup file. If Windows shows “Windows protected your PC”, click *More info* → *Run anyway*.
 
