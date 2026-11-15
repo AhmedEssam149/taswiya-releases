@@ -66,7 +66,7 @@
 Desktop app for the **Egyptian annual salary-tax settlement** and each employee's net pay. Works fully offline;
 your data stays on your PC, encrypted.
 
-**Download:** latest installer from **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)** : `…_x64-setup.exe` for 64-bit Windows 10/11 (most PCs), `…_x86-setup.exe` for 32-bit Windows 10.
+**Download:** latest installer from **[Releases](https://github.com/AhmedEssam149/taswiya-releases/releases/latest)**: `…_x64-setup.exe` for 64-bit Windows 10/11 (most PCs), `…_x86-setup.exe` for 32-bit Windows 10.
 
 **Install:** run the setup file. If Windows shows “Windows protected your PC”, click *More info* → *Run anyway*.
 
